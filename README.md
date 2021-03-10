@@ -72,3 +72,6 @@ What he wants exactly is to predict which streets are the most dangerous while v
 ---
 # Next Step
 
+1. Get null value of latitude and longitude using zip_code
+2. Futher Filter the data.
+
