@@ -1,0 +1,7 @@
+numpy
+pandas
+sodapy
+geopy
+seaborn
+matplotlib
+folium
