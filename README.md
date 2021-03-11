@@ -68,6 +68,24 @@ What he wants exactly is to predict which streets are the most dangerous while v
 4. Run the `main.ipynb` in jupyter notebook
 5. Run all code
 6. Have a look on the statistics genereted.
+7. Filtered data are saved inside "data_files"
+
+
+# Data visualization
+
+1. Histrogram of the Data to understand the data dristribution
+
+![Histrogram](data_visualization/Histrogram.png)
+
+2. Correlation figure to understand the correation of each column with one another
+
+![Correlation](data_visualization/Correlation.png)
+
+3. Individual Correlation this help us understand the correation of any individual column of your choice with all other columns
+
+![IndividualCorrelation](data_visualization/Single_column_correlation.png)
+
+
 
 ---
 # Next Step
