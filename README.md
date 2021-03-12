@@ -38,7 +38,7 @@ What he wants exactly is to predict which streets are the most dangerous while v
 | os		|to work around system path.			 |
 | pandas        |to manupulate the data.			 |
 | sodapy        |to downloading the data set			 |
-| seaborn       |to to have beautifyl visualization 		 |
+| seaborn       |to to have beautiful visualization 		 |
 
 **Note:** Just use command below to install the required libary with correct version to run the program smoothly.
 
@@ -47,12 +47,12 @@ What he wants exactly is to predict which streets are the most dangerous while v
 # Architecture
 
 ```
-3D-House-Project
+nyc-crashes
 │   README.md               :explains the project
 │   requirements.txt        :packages to install to run the program
 │   
 │   download.ipynb  	    :script to download a differently sized dataset.
-│   3d_house.ipynb          :script to run in order to start the program
+│   main.ipynb              :script to run in order to start the program
 │   
 │   data_files 		    :directory contains all maintainted .csv files.
 
@@ -60,9 +60,9 @@ What he wants exactly is to predict which streets are the most dangerous while v
 
 ---
 # Instruction
-#### How to get 3d_location ploting
+#### How to get filter data
 
-1. Setup python environment  `3.8.0`
+1. Setup python environment  `3.8.5`
 2. Install all libaries `pip install -r requirements.txt`
 3. Download important "data_10000.csv" files `download.ipynb` or just use sample data set provided.
 4. Run the `main.ipynb` in jupyter notebook
