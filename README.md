@@ -3,7 +3,7 @@
 ---
 
 
-- Repository: `nyc-crashes`
+- Repository: `Data_Preprocessing_NYC_Crashes`
 - Type of Challenge: `Consolidation`
 - Duration: `2 days`
 - Deadline: `10/03/2021 05:00 PM`
